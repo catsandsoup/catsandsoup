@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nutrition & public health
 - 💞️ I’m looking to collaborate on eating chocolate
 - 😄 Pronouns: Personal, Demonstrative, Indefinite, Interrogative, Relative, Reflexive, Reciprocal, Intensive & Possessive
-- ⚡ Fun fact: i have lots of energy throughout the day!
+- ⚡ Fun fact: I have lots of energy throughout the day!
 
 <!---
 catsandsoup/catsandsoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
